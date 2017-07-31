@@ -1,5 +1,5 @@
 title = "Notre-Dame de Paris"
-baseURL = "/"
+baseURL = "https://matthiaslenz.github.io/example-hugo-site/"
 languageCode = "en-us"
 theme = "ananke"
 themesDir = "themes"
@@ -10,6 +10,7 @@ SectionPagesMenu = "main"
 Paginate = 6 # this is set low for demonstrating with dummy content. Set to a higher number
 googleAnalytics = ""
 enableRobotsTXT = true
+canonifyURLs = true  #this can be removed if site is not hosted in subfolder
 
 [sitemap]
   changefreq = "monthly"
