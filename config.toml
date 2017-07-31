@@ -1,5 +1,5 @@
 title = "Notre-Dame de Paris"
-baseURL = "https://matthiaslenz.github.io/example-hugo-site/"
+baseURL = ""
 languageCode = "en-us"
 theme = "ananke"
 themesDir = "themes"
